@@ -21,3 +21,4 @@ def calculate_area_and_perimeter(length, width):
     area = calculate_area(length, width)
     perimeter = calculate_perimeter(length, width)
     return area, perimeter
+
