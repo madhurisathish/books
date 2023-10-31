@@ -17,7 +17,6 @@ def calculate_surface_area(length, width, height):
     surface_area = calculate_surface_area_helper(length, width, height)
     return surface_area
 
-
 def calculate_area_and_perimeter(length, width):
     area = calculate_area(length, width)
     perimeter = calculate_perimeter(length, width)
